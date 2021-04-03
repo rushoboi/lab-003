@@ -1,1 +1,1 @@
-# lab-003
+# lab-003/brigate.html
